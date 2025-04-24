@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/712a725e-6b99-42aa-a16e-2d8787b22548)
 
 
-<font color=red>主要功能：</font>
+<span style="color: red;">主要功能：</span>
 1.通过空格开始或暂停游戏；
 
 
